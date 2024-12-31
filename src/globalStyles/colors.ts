@@ -1,9 +1,8 @@
 
-
 /*
     Colors
 */
-export const colors = {
+export const Colors = {
     white: "#FFFFFF",
     black: "#07090F",
     OrangeShades50: "#FF9500",

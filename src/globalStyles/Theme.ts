@@ -8,12 +8,15 @@
 
 
 export const fontSizes = {
-    xs: "0.75rem",
-    sm: "0.875rem",
-    base: "1.125rem",
-    lg: "1.25rem",
-    xl: "1.5rem",
-    xl4: "2.375rem",
+    xs: "0.75rem", //12px
+    sm: "0.875rem", //14px
+    smallbase: "1rem", //16px
+    base: "1.125rem", //18px
+    lg: "1.25rem", //20px
+    Sxl: "1.5rem", //24px
+    xl: "1.75rem",
+    Sxl4: "2.25rem",
+    xl4: "2.375rem", // 38px
     xl5: "3rem",
     xl7: "5rem",
     "2xl": "1.5rem",
@@ -31,19 +34,19 @@ export const fontSizes = {
 }
 
 export const fontWeights = {
-    thin: 100,
-    extralight: 200,
-    light: 300,
-    normal: 400,
-    medium: 500,
-    semibold: 600,
-    bold: 700,
-    extrabold: 800,
-    black: 900,
+    thin: "100",
+    extralight: "200",
+    light: "300",
+    normal: "400",
+    medium: "500",
+    semibold: "600",
+    bold: "700",
+    extrabold: "800",
+    black: "900",
 }
 
 export const fontFamilies = {
-    main: "be Vietnam Pro",
+    main: "Clash Display, sans-serif",
 }
 
 export const star = {}

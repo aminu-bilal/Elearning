@@ -1,0 +1,100 @@
+
+
+{
+    "Benefits" : [
+        {
+            "Id" : 1,
+            "Header" : "01",
+            "Title" : "Flexible Learning Schedule",
+            "Description" : "Fit your coursework around your existing commitments and obligations."
+        },
+        {
+            "Id" : 2,
+            "Header" : "02",
+            "Title" : "Expert Instruction",
+            "Description" : "Learn from industry experts who have hands-on experience in design and development."
+        },
+        {
+            "Id" : 3,
+            "Header" : "03",
+            "Title" : "Diverse Course Offerings",
+            "Description" : "Explore a wide range of design and development courses covering various topics."
+        },
+        {
+            "Id" : 4,
+            "Header" : "04",
+            "Title" : "Updated Curriculum",
+            "Description" : "Access courses with up-to-date content reflecting the latest trends and industry practices."
+        },
+        {
+            "Id" : 5,
+            "Header" : "05",
+            "Title" : "Practical Projects and Assignments",
+            "Description" : "Develop a portfolio showcasing your skills and abilities to potential employers."
+        },
+        {
+            "Id" : 6,
+            "Header" : "06",
+            "Title" : "Interactive Learning Environment",
+            "Description" : "Collaborate with fellow learners, exchanging ideas and feedback to enhance your understanding."
+        }
+    ],
+
+
+    "Courses" : [
+        {
+            "Id" : 1,
+            "Image" : "coursesImage1.svg",
+            "Duration" : "4 Weeks",
+            "Level" : "Beginner",  
+            "Author" : "By John Smith",
+            "Title" : "Web Design Fundamentals",
+            "Description" : "Learn the fundamentals of web design, including HTML, CSS, and responsive design principles. Develop the skills to create visually appealing and user-friendly websites."
+        },
+        {
+            "Id" : 2,
+            "Image" : "coursesImage2.svg",
+            "Duration" : "6 Weeks",
+            "Level" : "Intermediate",  
+            "Author" : "By Emily Johnson",
+            "Title" : "UI/UX Design",
+            "Description" : "Master the art of creating intuitive user interfaces (UI) and enhancing user experiences (UX). Learn design principles, wireframing, prototyping, and usability testing techniques."
+        },
+        {
+            "Id" : 3,
+            "Image" : "coursesImage3.svg",
+            "Duration" : "8 Weeks",
+            "Level" : "Intermediate",  
+            "Author" : "By David Brown",
+            "Title" : "Mobile App Development",
+            "Description" : "Dive into the world of mobile app development. Learn to build native iOS and Android applications using industry-leading frameworks like Swift and Kotlin."
+        },
+        {
+            "Id" : 4,
+            "Image" : "coursesImage4.svg",
+            "Duration" : "10 Weeks",
+            "Level" : "Beginner",  
+            "Author" : "By Sarah Thompson",
+            "Title" : "Graphic Design for Beginners",
+            "Description" : "Discover the fundamentals of graphic design, including typography, color theory, layout design, and image manipulation techniques. Create visually stunning designs for print and digital media."
+        },
+        {
+            "Id" : 5,
+            "Image" : "coursesImage5.svg",
+            "Duration" : "10 Weeks",
+            "Level" : "Intermediate",  
+            "Author" : "By Michael Adams",
+            "Title" : "Front-End Web Development",
+            "Description" : "Become proficient in front-end web development. Learn HTML, CSS, JavaScript, and popular frameworks like Bootstrap and React. Build interactive and responsive websites."
+        },
+        {
+            "Id" : 6,
+            "Image" : "coursesImage6.svg",
+            "Duration" : "6 Weeks",
+            "Level" : "Advance",  
+            "Author" : "By Jennifer Wilson",
+            "Title" : "Advanced JavaScript",
+            "Description" : "Take your JavaScript skills to the next level. Explore advanced concepts like closures, prototypes, asynchronous programming, and ES6 features. Build complex applications with confidence."
+        }
+    ]
+}
