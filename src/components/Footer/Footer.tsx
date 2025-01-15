@@ -160,7 +160,7 @@ const Footer = () => {
             textAlign="center"
             m="30px 0px 0px 0px"
           >
-            © 2023 Skillbridge. All rights reserved.
+            &copy; 2025 Moisture Water's faith. All rights reserved.
           </Span>
         </Flex>
       </Box>

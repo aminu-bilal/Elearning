@@ -96,5 +96,32 @@
             "Title" : "Advanced JavaScript",
             "Description" : "Take your JavaScript skills to the next level. Explore advanced concepts like closures, prototypes, asynchronous programming, and ES6 features. Build complex applications with confidence."
         }
+    ],
+
+    "Testimonials" : [
+        {
+            "Id" : 1,
+            "Description" : "The web design course provided a solid foundation for me. The instructors were knowledgeable and supportive, and the interactive learning environment was engaging. I highly recommend it!",
+            "Image" : "testimonialImage1.svg",
+            "Name" : "Sarah L"
+        },
+        {
+            "Id" : 2,
+            "Description" : "The web design course provided a solid foundation for me. The instructors were knowledgeable and supportive, and the interactive learning environment was engaging. I highly recommend it!",
+            "Image" : "testimonialImage2.svg",
+            "Name" : "Jason M"
+        },
+        {
+            "Id" : 3,
+            "Description" : "The mobile app development course was fantastic! The step-by-step tutorials and hands-on projects helped me grasp the concepts easily. I'm now building my own app. Great course!",
+            "Image" : "testimonialImage3.svg",
+            "Name" : "Emily R"
+        },
+        {
+            "Id" : 4,
+            "Description" : "I enrolled in the graphic design course as a beginner, and it was the perfect starting point. The instructor's guidance and feedback improved my design abilities significantly. I'm grateful for this course!",
+            "Image" : "testimonialImage4.svg",
+            "Name" : "Michael K"
+        }
     ]
 }
